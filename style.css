@@ -15,10 +15,10 @@
             border-bottom: 5px solid #310446; /* Vermelho dos 76ers */
         }
         header img {
-            
             width:100%;
             height:200px;
             z-index: -1;
+            position:absolute
         }
         header h1 {
             margin: 0;

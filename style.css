@@ -9,11 +9,11 @@
         }
 
         header {
-            background-color: #002B5C; /* Azul dos 76ers */
+            background-color: #7e19a7; /* Azul dos 76ers */
             color: #fff;
             padding: 2rem 1rem;
             text-align: center;
-            border-bottom: 5px solid #ED174C; /* Vermelho dos 76ers */
+            border-bottom: 5px solid #3c0944; /* Vermelho dos 76ers */
         }
 
         header h1 {
@@ -59,7 +59,7 @@
         }
 
         article h2 {
-            color: #820676;
+            color: #002B5C;
             margin-top: 0;
         }
 
